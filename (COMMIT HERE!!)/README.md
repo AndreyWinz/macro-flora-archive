@@ -1,0 +1,2 @@
+## Commit all external photos in the same manner here, following the format stated in the main README.md.
+Here, everyone who commits can upload their photos and hereby accept that they will be subject to the **CC BY 4.0** license under which this repo is signed. The license will apply individually to each photo, making it so that if used externally by any other individual/commercial entity, appropriate credits **will not** be given to the repo creator, but to the original owner of the image.
