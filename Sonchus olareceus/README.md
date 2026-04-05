@@ -1,2 +1,0 @@
-Common name:
-**Common sowthistle**
