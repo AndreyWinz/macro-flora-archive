@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Folder icons
+Icon?
+
+# Potential temporary photo edit files
+*.tmp
+*.bak
