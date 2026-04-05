@@ -28,7 +28,7 @@ The archive is organized by the scientific names of the flora:
 `/Taraxacum Officinale/any_name.jpg`
 
 ## Contributions
-Contributions are welcome! If you have high-quality macro shots of plants that fit the naming convention and quality standards mentioned above, feel free to open a Pull Request. Please ensure the folder name is the correct **Scientific Name** of the species.
+Contributions are welcome! If you have high-quality macro shots of plants that fit the naming convention and quality standards mentioned above, feel free to open a Pull Request. Please ensure the folder name is the correct **Scientific Name** of the species. **BUT**, please commit into the designated "(COMMIT HERE!!)" folder.
 
 ## License
 This project is licensed under the **Creative Commons Attribution 4.0 International License**.
