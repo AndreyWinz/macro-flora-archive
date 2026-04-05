@@ -31,6 +31,7 @@ The archive is organized by the scientific names of the flora:
 Contributions are welcome! If you have high-quality macro shots of plants that fit the naming convention and quality standards mentioned above, feel free to open a Pull Request. Please ensure the folder name is the correct **Scientific Name** of the species.
 
 ## License
+This project is licensed under the **Creative Commons Attribution 4.0 International License**.
 ### What You Are Free To Do
 Under CC BY 4.0, you are free to share (copy/redistribute) and adapt (remix/build upon) the material for any purpose, including commercial uses, and these rights are irrevocable as long as you follow the terms.
 ### What You Must Do (Attribution)
