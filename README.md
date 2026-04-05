@@ -30,6 +30,14 @@ The archive is organized by the scientific names of the flora:
 ## Contributions
 Contributions are welcome! If you have high-quality macro shots of plants that fit the naming convention and quality standards mentioned above, feel free to open a Pull Request. Please ensure the folder name is the correct **Scientific Name** of the species.
 
+## License
+### What You Are Free To Do
+Under CC BY 4.0, you are free to share (copy/redistribute) and adapt (remix/build upon) the material for any purpose, including commercial uses, and these rights are irrevocable as long as you follow the terms.
+### What You Must Do (Attribution)
+You **must** provide appropriate credit, a link to the license, and indicate if changes were made. This includes keeping **all** copyright notices intact and not implying that the original creator endorses your use.
+### Restrictions and Notices
+You **cannot** apply legal or technological restrictions that legally inhibit others from doing what this license permits. Additionally, **you** are responsible for clearing rights for any marked third-party content, and the material is provided **"as-is"** without warranties.
+
 ## P.S.
 I do these projects purely for fun, and I decided to upload them to GitHub to share with others. I am not asking or begging for a donation, but if you want to appreciate my work, feel free to donate! You can also send your GitHub username in the "Note" section of the donation page, so I can give you a shout-out in the next repository. Stay tuned for more!
 
