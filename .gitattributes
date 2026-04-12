@@ -1,4 +1,4 @@
-# Patterns to include in the language summary bar
+# Files for language summary
 *.md linguist-language=Markdown linguist-detectable=true
 *.HEIC linguist-language=Image linguist-detectable=true
 *.png linguist-language=Image linguist-detectable=true
