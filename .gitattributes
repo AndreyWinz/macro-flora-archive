@@ -1,9 +1,9 @@
 # Patterns to include in the language summary bar
-*.md linguist-detectable=true
-*.HEIC linguist-detectable=true
-*.png linguist-detectable=true
-*.jpg linguist-detectable=true
-*.jpeg linguist-detectable=true
-*.PNG linguist-detectable=true
-*.JPG linguist-detectable=true
-*.JPEG linguist-detectable=true
+*.md linguist-language=Markdown linguist-detectable=true
+*.HEIC linguist-language=Image linguist-detectable=true
+*.png linguist-language=Image linguist-detectable=true
+*.jpg linguist-language=Image linguist-detectable=true
+*.jpeg linguist-language=Image linguist-detectable=true
+*.PNG linguist-language=Image linguist-detectable=true
+*.JPG linguist-language=Image linguist-detectable=true
+*.JPEG linguist-language=Image linguist-detectable=true
