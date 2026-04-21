@@ -1,2 +1,2 @@
 Common name:
-**Common sumac**
+**Staghorn sumac**
