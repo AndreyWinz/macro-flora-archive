@@ -10,6 +10,7 @@ All photographs in this repository are captured using one of the following devic
 * **iPhone 14** (Current Primary)
 * **iPhone 11 Pro**
 * **Canon IXUS 220 HS**
+* **iPhone 17 Pro** (Sometimes, a relative's phone if my primary is unavailable)
 
 ## Project Status & Quality
 I am currently a **learning photographer**. While these shots may not be professional-grade "top-notch" masterpieces yet, I am focused on improving my technique with every upload. 
@@ -21,7 +22,7 @@ To maintain the utility of the archive, all images must be:
 3. **High Resolution:** Images must not be pixelated or heavily compressed.
 
 ## Repository Structure
-The archive is organized by the scientific names of the flora:
+The archive is organised by the scientific names of the flora:
 `/[Scientific Name]/image_file.jpg`
 
 *Example:*
