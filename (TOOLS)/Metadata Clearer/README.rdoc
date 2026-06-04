@@ -1,0 +1,35 @@
+= MetadataCleaner
+
+Clear metadata (profiles) from images.
+Remove all images metadata (profiles) in directory
+
+<b>In linux your can type: </b>
+  find . -name '*.jpg' -exec mogrify -strip {}\;
+
+== Dependents
+
+You need have ImageMagick on your system with 'convert' command
+
+== Install
+
+  rails plugin install git://github.com/Brainberry/metadata_cleaner.git
+  
+===or
+
+  sudo gem install metadata_cleaner
+
+== Usage
+
+=== From project
+
+  rake metadata:clean path=/path/with/images
+
+=== Command Line Tool
+
+  metadata_cleaner /path/with/images
+
+Copyright (c) 2010 Brainberry, released under the MIT license
+
+== Credits
+
+  This metadata clearer was made by superp on github. It is licensed uner the MIT License so I took the liberty to implement it into my github repo.
