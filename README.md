@@ -1,6 +1,7 @@
 # macro-flora-archive
-![GitHub License](https://img.shields.io/github/license/AndreyWinz/macro-flora-archive)
+[![License](https://img.shields.io/badge/license-CC%20BY%204.0-blue.svg)](LICENSE)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/AndreyWinz/macro-flora-archive)
+[![Status](https://img.shields.io/badge/status-active%20development-green.svg)]()
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndreyWinz/macro-flora-archive)
 ![GitHub Repo stars](https://img.shields.io/github/stars/AndreyWinz/macro-flora-archive)
 
@@ -53,8 +54,9 @@ You **must** provide appropriate credit, a link to the license, and indicate if 
 ### Restrictions and Notices
 You **cannot** apply legal or technological restrictions that legally inhibit others from doing what this license permits. Additionally, **you** are responsible for clearing rights for any marked third-party content, and the material is provided **"as-is"** without warranties.
 
-## P.S.
-I do these projects purely for fun, and I decided to upload them to GitHub to share with others. I am not asking or begging for a donation, but if you want to appreciate my work, feel free to donate! You can also send your GitHub username in the "Note" section of the donation page, so I can give you a shout-out in the next repository. Stay tuned for more!
+## Buy me a Coffee
+If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee (not the actual website, but a Revolut payment link)!
 
-This is my Revolut Payment Link:
-[Thank you so much!](https://revolut.me/andreygdl9)
+Please include your GitHub username in the "Note" section so I can add you to the contributor list on my profile!
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://revolut.me/andreygdl9)
