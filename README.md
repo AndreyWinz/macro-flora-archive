@@ -5,7 +5,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndreyWinz/macro-flora-archive)
 ![GitHub Repo stars](https://img.shields.io/github/stars/AndreyWinz/macro-flora-archive)
 
-![Dependabot](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)
 ![Zen](https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white)
 ![iCloud](https://img.shields.io/badge/icloud-%233693F3.svg?style=for-the-badge&logo=icloud&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
