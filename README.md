@@ -54,7 +54,7 @@ You **must** provide appropriate credit, a link to the license, and indicate if 
 You **cannot** apply legal or technological restrictions that legally inhibit others from doing what this license permits. Additionally, **you** are responsible for clearing rights for any marked third-party content, and the material is provided **"as-is"** without warranties.
 
 ## Buy me a Coffee
-If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee (not the actual website, but a Revolut payment link)!
+If you think I deserve a little gift to support me and my creations, feel free to buy me a coffee!
 
 Please include your GitHub username in the "Note" section so I can add you to the contributor list on my profile!
 
