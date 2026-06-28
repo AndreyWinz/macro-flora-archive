@@ -49,7 +49,7 @@ This project is licensed under the **Creative Commons Attribution 4.0 Internatio
 ### What You Are Free To Do
 Under CC BY 4.0, you are free to share (copy/redistribute) and adapt (remix/build upon) the material for any purpose, including commercial uses, and these rights are irrevocable as long as you follow the terms.
 ### What You Must Do (Attribution)
-You **must** provide appropriate credit, a link to the license, and indicate if changes were made. This includes keeping **all** copyright notices intact and not implying that the original creator endorses your use.
+You **must** provide appropriate credit, a link to the license, and indicate if changes were made. This includes keeping **all** copyright notices intact and not implying that the original creator endorses your use. Also, feel free to leave me a message on GitHub, just so I can see where my work has been published.
 ### Restrictions and Notices
 You **cannot** apply legal or technological restrictions that legally inhibit others from doing what this license permits. Additionally, **you** are responsible for clearing rights for any marked third-party content, and the material is provided **"as-is"** without warranties.
 
