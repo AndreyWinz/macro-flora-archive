@@ -1,2 +1,2 @@
 Common name:
-**China rose**
+**China rose** or **Garden rose**
